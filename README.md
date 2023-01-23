@@ -1,27 +1,47 @@
-Dogglers - Starter Code
-==================================
+## Table of contents
 
-Starter code for the second independent project for [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course).
+- [Overview](#overview)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+- [My process](#my-process)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+- [Author](#author)
 
-Introduction
-------------
+## Overview
 
-This is the starter code for the Dogglers app project in the [final pathway](https://developer.android.com/courses/pathways/android-basics-kotlin-unit-2-pathway-3) of Android Basics [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2). This project is an opportunity for you to demonstrate the concepts you learned in the unit.
+### The challenge
 
-Pre-requisites
---------------
+Users should be able to:
 
-- Complete [Unit 2](https://developer.android.com/courses/android-basics-kotlin/unit-2) of Android Basics in Kotlin
+- Click on the buttons and select the correct layout: vertical, horizontal or grid
+- Navigate through the layouts scrolling the screen and visualizing the images and descriptions of the items
 
-Getting Started
----------------
+### Screenshot
 
-1. Download the starter code
-2. Open the project in Android Studio
-3. Complete the project in accordance with the [project instructions](https://developer.android.com/codelabs/basic-android-kotlin-training-project-dogglers-app?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-2-pathway-3%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-project-dogglers-app#0)
+![](./screenshot.png)
 
-Tips
-----
+### Links
 
-- Use the provided tests to ensure your app is running as expected
-- DO NOT ALTER THE PROVIDED TESTS
+- Solution URL: [Solution](https://github.com/mlzzi/Dogglers-app)
+
+## My process
+
+### Built with
+
+- Android Studio
+- Kotlin
+
+### What I learned
+
+This is the second Project Challenge done on the Developer`s Google Learn website from the Course 'Android Basics in Kotlin'
+
+### Continued development
+
+I will continue to learn from the Google's platform and from Jetbrain's platform Hyperskill
+
+## Author
+
+- Linkedin - [Murilo Luzzi](https://www.linkedin.com/in/muriloluzzi/)
+- GitHub - [@mlzzi](https://github.com/mlzzi)
